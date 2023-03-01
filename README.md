@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehranmzn
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently learning and working on Outlier detection in real-time applications
+- 🌱 I’m currently learning and working on online monitoring in medical time-series.
 - 📫 How to reach me: m.moazeni@uu.nl
 
 <!---
