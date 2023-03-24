@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Mehranmzn
-- 👀 I’m interested in Statistics
-- 🌱 I’m currently learning and working on online monitoring in medical time-series.
-- 📫 How to reach me: m.moazeni@uu.nl
+About Me 👨‍💻
 
-<!---
-Mehranmzn/Mehranmzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on online monitoring in medical time-series 🏥.
+
+Interests 👀
+
+Statistics 📊
+Data Analysis 📉
+Machine Learning 🤖
+Current Work 🌱
+
+My current focus is on developing methods for online monitoring in medical time-series. This involves analyzing large datasets to identify patterns and trends that can be used to improve patient outcomes.
+
+How to reach me 📫
+
+If you have any questions or would like to connect, please feel free to reach out to me at m.moazeni@uu.nl. I am always looking for opportunities to collaborate and learn from others in the field.
+
+Thank you for visiting my profile! 😊
+
+
+
+
