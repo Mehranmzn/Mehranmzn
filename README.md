@@ -20,6 +20,13 @@ If you have any questions or would like to connect, please feel free to reach ou
 
 Thank you for visiting my profile! 😊
 
+<!-- Your other content here -->
+
+## GitHub Stats
+
+![My Github stats!](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+<!-- More content below if needed -->
 
 
 
