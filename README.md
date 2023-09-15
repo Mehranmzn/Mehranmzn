@@ -24,7 +24,7 @@ Thank you for visiting my profile! 😊
 
 ## GitHub Stats
 
-![My Github stats!](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![My Github stats!](https://github-readme-stats.vercel.app/api?username=MehranMzn&show_icons=true&theme=radical)
 
 <!-- More content below if needed -->
 
