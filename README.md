@@ -21,9 +21,12 @@ If you have any questions or would like to connect, please feel free to reach ou
 Thank you for visiting my profile! 😊 
 ![Profile Views](https://komarev.com/ghpvc/?username=MehranMzn)
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MehranMzn&count_private=true&show_icons=true&theme=radical)
 
-[![LinkedIn Profile Views](https://img.shields.io/badge/dynamic/json?color=0A66C2&label=LinkedIn%20Profile%20Views&query=%24.total&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Flinkedin%2Fyour-linkedin-id%2Findex.json)]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/mehran-moazeni/))
+<a href="[https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/mehran-moazeni/)" target="_blank" style="text-decoration: none;">
+    <img src="https://www.example.com/linkedin-logo.png" alt="LinkedIn Logo" width="30" style="vertical-align: middle;">
+    <span style="margin-left: 5px; font-size: 14px; color: #0A66C2;">LinkedIn Profile Views</span>
+</a>
+
 
 
 
