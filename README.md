@@ -7,9 +7,12 @@ Interests 👀
 Statistics 📊
 Data Analysis 📉
 Machine Learning 🤖
+
+
 Current Work 🌱
 
 My current focus is on developing methods for online monitoring in medical time-series. This involves analyzing large datasets to identify patterns and trends that can be used to improve patient outcomes.
+Now I am developing tools based on Meta-learning algorithms such as MAML.
 
 How to reach me 📫
 
