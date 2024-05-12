@@ -16,7 +16,7 @@ Now I am developing tools based on Meta-learning algorithms such as MAML.
 
 How to reach me 📫
 
-If you have any questions or would like to connect, please feel free to reach out to me at m.moazeni@uu.nl. I am always looking for opportunities to collaborate and learn from others in the field.
+If you have any questions or would like to connect, please feel free to reach out to me. I am always looking for opportunities to collaborate and learn from others in the field.
 
 Thank you for visiting my profile! 😊 
 ![Profile Views](https://komarev.com/ghpvc/?username=MehranMzn)
