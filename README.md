@@ -31,6 +31,7 @@ Thank you for visiting my profile! 😊
 </a>
 
 
+### Python:
 
 | Pytorch | Numpy | Pandas | Sklearn | 
 |----------|----------|----------|----------|
@@ -38,7 +39,7 @@ Thank you for visiting my profile! 😊
 
 
 
-### My tools for Data Manipulation & Visualisation:
+### Data Manipulation & Visualisation:
 
 | Conda | Jupyter | Spark | MySQL |  SQLite | Plotly | Matpltlib |
 |----------|----------|----------|----------|----------|----------|----------|
