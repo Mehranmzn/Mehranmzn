@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehranmzn)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 About Me 👨‍💻
 
 Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on online monitoring in medical time-series 🏥.
