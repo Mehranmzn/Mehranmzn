@@ -3,19 +3,19 @@
 
 About Me 👨‍💻
 
-Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on online monitoring in medical time-series 🏥.
+Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on Machine learning and Data science 🏥.
 
 Interests 👀
 
-Statistics 📊
-Data Analysis 📉
+Data Science 📉
 Machine Learning 🤖
 
 
+I am AWS Machine learning Associate and Azure-900 certified. 
+
 Current Work 🌱
 
-My current focus is on developing methods for online monitoring in medical time-series. This involves analyzing large datasets to identify patterns and trends that can be used to improve patient outcomes.
-Now I am developing tools based on Meta-learning algorithms such as MAML.
+My current focus is on developing methods for time-series predicitons, RAG applications, LLMs,and ML deployement . 
 
 How to reach me 📫
 
