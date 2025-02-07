@@ -30,25 +30,30 @@
     <img src="assets/aws_ai.png" width="auto" height="150"/>
      </a>
 </div>
-About Me 👨‍💻
 
-Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on Machine learning and Data science 🏥.
+&nbsp;
 
-Interests 👀
+<h1>👨‍💻 My Profile</h1>
 
-Data Science 📉
-Machine Learning 🤖
+🚀 Creative and results-driven <b>Data Scientist & ML Engineer with expertise in machine learning, MLOps, and data engineering</b>. Skilled in developing advanced predictive models, optimizing data pipelines, and deploying scalable AI solutions in cloud-based and on-prem environments. Passionate about applying PyTorch, scikit-learn, Tensorflow, R, SQL, and cloud platforms (AWS, Azure) to drive impactful data-driven decisions.
 
+&nbsp;
+My stack set (not limited to):
 
-I am AWS Machine learning Associate and Azure-900 certified. 
+&nbsp;
 
-Current Work 🌱
+- ✅ **Data Science, Analytics & ML:** Python, TensorFlow, Scikit-learn
+- ✅ **AI:** Langchain, Hugging Face, Transformers, Vector Databases
+- ✅ **Key Domains:** Regression, Classification, Recommendationa nd personalization,  LLM, RAG, Neural Networks, Ensemble Methods, Clustering, Explainability
+- ✅ **Visualization and reporting:**Streamlit, Matplotlib, Plotly
+- ✅ **Data Engineering:** dbt, SQL, PySpark, Databricks, 
+- ✅ **MLOps:** MLflow, Prefect,  Docker,  
+- ✅ **APIs:** Flask, FastAPI
+- ✅ **Apps:** Streamlit, Gradio 
+- ✅ **Cloud Platforms:** Azure (AZ-900), Azure DevOps, Databricks, AWS
+- ✅ **Version Control:** Git, Github
 
-My current focus is on developing methods for time-series predicitons, RAG applications, LLMs,and ML deployement . 
-
-How to reach me 📫
-
-If you have any questions or would like to connect, please feel free to reach out to me. I am always looking for opportunities to collaborate and learn from others in the field.
+&nbsp;
 
 Thank you for visiting my profile! 😊 
 ![Profile Views](https://komarev.com/ghpvc/?username=MehranMzn)
