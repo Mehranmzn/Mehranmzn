@@ -1,8 +1,35 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehranmzn)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ![Banner](assets/banner.jpeg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehranmzn)](https://github.com/ryo-ma/github-profile-trophy)
+
+&nbsp;
+
+<h3 align="center">⬇️ You can find me here! ⬇️</h3>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/mehran-moazeni/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@mehran1414" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+&nbsp;
+
+<div align="center">
+<a href="https://www.credly.com/badges/d5698d0f-8b7f-452c-9342-2c35961649ed">
+    <img src="images/aws_ml.png" width="auto" height="150"/>
+     </a>
+<a href="5D676E6F3A964F7C">
+    <img src="images/aws_ai.png" width="auto" height="150"/>
+     </a>
+</div>
 About Me 👨‍💻
 
 Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on Machine learning and Data science 🏥.
