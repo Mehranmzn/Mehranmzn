@@ -1,6 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehranmzn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![Banner]("assets/banner.jpeg")
+
 About Me 👨‍💻
 
 Hello, I'm Mehranmzn 👋, a statistics enthusiast 📈 currently working on Machine learning and Data science 🏥.
