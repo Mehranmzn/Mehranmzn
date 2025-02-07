@@ -24,10 +24,10 @@
 
 <div align="center">
 <a href="https://www.credly.com/earner/earned/badge/5f2699ae-9140-46c1-a8e7-3e42607eff59">
-    <img src="images/aws_ml.png" width="auto" height="150"/>
+    <img src="assets/aws_ml.png" width="auto" height="150"/>
      </a>
 <a href="5D676E6F3A964F7C">
-    <img src="images/aws_ai.png" width="auto" height="150"/>
+    <img src="assets/aws_ai.png" width="auto" height="150"/>
      </a>
 </div>
 About Me 👨‍💻
