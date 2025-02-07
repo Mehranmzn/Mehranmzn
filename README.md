@@ -23,7 +23,7 @@
 &nbsp;
 
 <div align="center">
-<a href="https://www.credly.com/badges/d5698d0f-8b7f-452c-9342-2c35961649ed">
+<a href="https://www.credly.com/earner/earned/badge/5f2699ae-9140-46c1-a8e7-3e42607eff59">
     <img src="images/aws_ml.png" width="auto" height="150"/>
      </a>
 <a href="5D676E6F3A964F7C">
