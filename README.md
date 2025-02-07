@@ -31,7 +31,6 @@
      </a>
 </div>
 
-&nbsp;
 
 <h1>👨‍💻 My Profile</h1>
 
