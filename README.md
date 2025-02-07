@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehranmzn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Banner]("assets/banner.jpeg")
+![Banner]("https://github.com/Mehranmzn/Mehranmzn/tree/main/assets/banner.jpeg")
 
 About Me 👨‍💻
 
