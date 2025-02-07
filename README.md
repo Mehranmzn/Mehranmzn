@@ -69,7 +69,7 @@ My stack set (not limited to):
 | Project Name | Main Libraries/Tools | Cloud Service | App | DevOps Best Practices |
 | --- | --- | :---: | :---: | --- |
 | **ML/MLOps** |
-| [MLOps Credit Loan Prediction](https://github.com/Mehranmzn/CL_prediction) | Scikit-learn<br>LightGBM<br>MLflow<br>Databricks<br> | Snowflake/Dagshub |  | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD |
+| [MLOps Credit Loan Prediction](https://github.com/Mehranmzn/CL_prediction) | Scikit-learn<br>LightGBM<br>MLflow<br>Databricks<br> | Snowflake/Dagshub |  | Experiment Tracking<br>Model Registry<br>Model Selection<br>Data Validation<br>Hyper-tuninig<br>CrossValidation<br>Logging<br>Error Handling<br>GithuAction<br>CI/CD |
 
 
 <!-- ### Python:
