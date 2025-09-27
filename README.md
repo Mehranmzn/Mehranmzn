@@ -138,5 +138,11 @@ My stack set (not limited to):
 
 <!-- More content below if needed -->
 
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Mehranmzn/Mehranmzn/blob/output/github-snake-dark.svg)
+</div>
+
 
 
