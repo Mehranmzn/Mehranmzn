@@ -141,7 +141,7 @@ My stack set (not limited to):
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Mehranmzn/Mehranmzn/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Mehranmzn/Mehranmzn/blob/output/github-snake.svg)
 </div>
 
 
