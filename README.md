@@ -79,6 +79,7 @@ My stack set (not limited to):
 | --- | --- | :---: | :---: | --- |
 | **ML/MLOps** |
 | [MLOps Credit Loan Prediction](https://github.com/Mehranmzn/CL_prediction) | Scikit-learn<br>LightGBM<br>MLflow<br>Databricks<br> | Snowflake/Dagshub |  | Experiment Tracking<br>Model Registry<br>Model Selection<br>Data Validation<br>Hyper-tuninig<br>CrossValidation<br>Logging<br>Error Handling<br>GithubAction<br>CI/CD |
+| [RAGents - LLM/RAG System](https://github.com/Mehranmzn/RAGents) | LangChain<br>OpenAI<br>ChromaDB<br>FastAPI<br>Streamlit | Azure/OpenAI | Streamlit | Vector Database<br>Document Processing<br>Embedding Generation<br>Query Processing<br>Context Retrieval<br>Response Generation<br>API Development<br>Interactive UI |
 
 
 <!-- ### Python:
