@@ -44,7 +44,7 @@
 
 <h1>👨‍💻 My Profile</h1>
 
-🚀 Creative and results-driven <b>Data Scientist & ML Engineer with expertise in machine learning, MLOps, and data engineering</b>. Skilled in developing advanced predictive models, optimizing data pipelines, and deploying scalable AI solutions in cloud-based and on-prem environments. Passionate about applying PyTorch, scikit-learn, Tensorflow, R, SQL, and cloud platforms (AWS, Azure) to drive impactful data-driven decisions.
+🚀 Creative and results-driven <b>Data Scientist & ML Engineer with expertise in machine learning and AI</b>. Skilled in developing advanced predictive models, and deploying scalable AI solutions in cloud-based and on-prem environments. Passionate about applying PyTorch, scikit-learn, Tensorflow, R, SQL, and cloud platforms (AWS, Azure) to drive impactful data-driven decisions.
 
 &nbsp;
 My stack set (not limited to):
